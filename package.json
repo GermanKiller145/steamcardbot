@@ -1,0 +1,23 @@
+{
+  "name": "steamcardbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "steam-user": "^3.26.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GermanKiller145/steamcardbot.git"
+  },
+  "author": "GermanKiller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GermanKiller145/steamcardbot/issues"
+  },
+  "homepage": "https://github.com/GermanKiller145/steamcardbot#readme"
+}
