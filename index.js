@@ -24,7 +24,7 @@ client.on('loggedOn', () => {
 client.on('friendMessage', function(steamID, message) {
   params = message.split(" ", 2);
   if(params[0] === "!buy"){
-    if(params[1] <= "0"){
+    if(params[1] <= 0){
       client.chatMessage(steamID, "Please type an amout of keys you wanna pay.");
     } else {
       num = params[1];
