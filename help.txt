@@ -1,0 +1,4 @@
+Following commands are used:
+!buy <amount of keys>
+!sell <amount of sets>
+!tolevel <level you want to reach>
